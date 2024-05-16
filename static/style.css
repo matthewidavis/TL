@@ -1,0 +1,18 @@
+/* Dark theme styles */
+body, h2 {
+    background-color: #343a40;
+    color: #fff;
+}
+.navbar {
+    background-color: #212529;
+}
+.form-group label, .form-control {
+    color: #fff;
+}
+.form-control {
+    background-color: #495057;
+    border-color: #495057;
+}
+.btn {
+    border-color: #fff;
+}
